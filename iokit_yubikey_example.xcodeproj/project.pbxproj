@@ -78,7 +78,7 @@
 			dependencies = (
 			);
 			name = iokit_yubikey_example;
-			productName = iokit_killer;
+			productName = iokit_yubikey_example;
 			productReference = 37D22A971A968E5D005B9FB2 /* iokit_yubikey_example */;
 			productType = "com.apple.product-type.tool";
 		};
